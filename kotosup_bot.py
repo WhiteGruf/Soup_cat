@@ -1,5 +1,3 @@
-from email import message
-from http.client import BAD_REQUEST
 import telebot
 from telebot import types
 from kotosup_menu import Food
