@@ -5,7 +5,7 @@ from telebot import types
 from kotosup_menu import Food
 
 
-bot = telebot.TeleBot("5418077308:AAEYDnH0flac9pG5-BmyBtzDhDXyayb1ARE")
+bot = telebot.TeleBot("TOKEN")
 sections = ["Завтраки","Каши","Супы","Сандвичи","Десерты","Горячие напитки","Холодные напитки","Слабоалкогольные напитки"]
 section = ""
 panckake_stuff = ["с ветчиной и сыром","с сулугуни и зеленью","с творогом и сметаной"]
